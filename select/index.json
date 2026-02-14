@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "プライド",
+  "base_artist": "Novel Core",
+  "createdAt": "2026-02-14T02:47:12.530401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プライド・オブ・アンダーグラウンド",
+      "artist": "Kinniku Shōjo Tai",
+      "has_synced": false,
+      "path": "select/01_プライド・オブ・アンダーグラウンド_Kinniku_Shōjo_Tai.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プライド・オブ・アンダーグラウンド",
+      "artist": "筋肉少女帯",
+      "has_synced": false,
+      "path": "select/02_プライド・オブ・アンダーグラウンド_筋肉少女帯.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プライド",
+      "artist": "高橋優",
+      "has_synced": true,
+      "path": "select/03_プライド_高橋優.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プライド",
+      "artist": "Yu Takahashi",
+      "has_synced": true,
+      "path": "select/04_プライド_Yu_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プライド~嘆きの旅 (Pride: Nageki no Tabi)",
+      "artist": "AKINO",
+      "has_synced": false,
+      "path": "select/05_プライド~嘆きの旅_(Pride__Nageki_no_Tabi)_AKINO.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pride - プライド",
+      "artist": "Echo and the Bunnymen - エコー&ザ・バニーメン",
+      "has_synced": true,
+      "path": "select/06_Pride_-_プライド_Echo_and_the_Bunnymen_-_エコー&ザ・バニーメン.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "プライド~嘆きの旅",
+      "artist": "AKINO",
+      "has_synced": false,
+      "path": "select/07_プライド~嘆きの旅_AKINO.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "プライド?嘆きの旅",
+      "artist": "AKINO",
+      "has_synced": false,
+      "path": "select/08_プライド_嘆きの旅_AKINO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "プライド〜嘆きの旅",
+      "artist": "AKINO",
+      "has_synced": false,
+      "path": "select/09_プライド〜嘆きの旅_AKINO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プライド",
+      "artist": "Novel Core",
+      "has_synced": false,
+      "path": "select/pl_01_プライド_Novel_Core.txt"
+    }
+  ]
+}
